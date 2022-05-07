@@ -7,9 +7,9 @@ Release_Date,Title,Overview,Popularity,Vote_Count,
 Vote_Average,Original_Language,Genre,Poster_Url								"""
 
 """ Questoes de pesquisa:
-    1 - Qual a nota do filme?
-    2 - Qual o genero?
-    3 - Qual a data de lancamento?"""
+    1 - Qual a nota  do filme Eternals?
+    2 - Qual a nota do filme The Batman?
+    3 - Qual a nota do filme Kimi?"""
 
 import matplotlib.pyplot as plt
 
